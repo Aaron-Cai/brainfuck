@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.sdf
+*.log
+branfuck/Debug/vc140.pdb
+*.idb
+branfuck/Debug/Source1.obj
+*.tlog
+*.ilk
+*.suo
